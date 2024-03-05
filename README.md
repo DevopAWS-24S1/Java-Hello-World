@@ -13,25 +13,10 @@ $ mvn compile
 $ mvn test
 ```
 
-## Run
-
-```
-$ mvn exec:java
-```
-
 ## Package
 
 ```
 $ mvn package
 ```
 
-## Creating this project by Maven
-
-```
-$ mvn archetype:generate \
-  -DarchetypeArtifactId=maven-archetype-quickstart \
-  -DinteractiveMode=false \
-  -DgroupId=info.maigo.lab.hello \
-  -DartifactId=maigolab_hello
-```
 
