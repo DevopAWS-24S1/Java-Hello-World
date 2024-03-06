@@ -2,7 +2,6 @@
 Hello World sample with Java with Maven
 
 ## Compile
-For Testing Pull Request 
 ```
 $ mvn compile
 ```
